@@ -1,0 +1,19 @@
+## **Git steps**
+
+
+````
+git init
+git status
+git add .
+git status
+git commit  (para agregar una versión)
+git status
+git log  (para ver las versiones)
+git diff  (para ver las diferencias entre versiones)
+
+git remote add orign (url)  (para subir el código a github)
+git push -origin master
+
+git clone (+la url obteniada desde github)
+
+```
