@@ -1,4 +1,6 @@
-## **Iniciar Browser en Selenium**
+## Initialize the browser with Selenium
+
+#### These are the steps to follow to be able to initialize the browser with automated testing using python and selenium web driver.
 
 ```
 from selenium import webdriver
